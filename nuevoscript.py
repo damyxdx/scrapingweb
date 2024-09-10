@@ -171,8 +171,8 @@ def save_current_data(products, filename):
 
 # Función principal para ejecutar el script
 def main():
-    username = 'benitezlisa23@gmail.com'
-    password = 'lenceria1234'
+    username = 'aqui va tu mail'
+    password = 'aqui va tu contraseña'
 
     session = login(username, password)
     if not session:
